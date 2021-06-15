@@ -1,5 +1,7 @@
 # Python for Data Science Series
 
+# REFACTOR THIS SITE [ 6/15/2021, MPT]
+
 This repo contains a collection of Jupyter notebooks to help you learn the basics of the Python programming language together with some of the packages that are used frequently in data science. Although we provide some concrete examples of machine learning techniques, such as decision trees and regression, these exercises are intended to illustrate syntax and mechanics rather than the specific methods.
 
 ## Getting started
