@@ -1,1 +1,0 @@
-## Skeleton webpage for PythonSeries
