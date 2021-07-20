@@ -10,3 +10,15 @@ Here's a series of notebooks that are adapted from the e-book *Automate the Bori
 The original ebook can be found [here](https://automatetheboringstuff.com/). 
 
 These are adapted to run on HPC systems. They contain fundemental Python knowledge, projects and examples included. Enjoy!
+
+| Notebook | Content |
+| ----------- | ----------- |
+| boring_python_chapter_1.ipynb |  |
+| boring_python_chapter_2.ipynb |  |
+| boring_python_chapter_3.ipynb |  |
+| boring_python_chapter_4.ipynb |  |
+| boring_python_chapter_5.ipynb |  |
+| boring_python_chapter_6.ipynb |  |
+| boring_python_chapter_7.ipynb |  |
+| boring_python_chapter_8.ipynb |  |
+| boring_python_chapter_9.ipynb |  |
