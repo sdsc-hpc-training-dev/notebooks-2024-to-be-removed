@@ -22,8 +22,8 @@ In this exercise we will design a CUDA kernel to compute the value of Pi
 via Monte Carlo.  The concepts of writing and invoking CUDA kernels in 
 Numba are introduced.
 
-* [computing_pi.ipynb](./CUDA_GPU_computing_pi.ipynb)
-* [computing_pi_solution](./CUDA_GPU_computing_pi_solution.ipynb)
+* [computing_pi.ipynb](./CUDA_GPU_NVIDIA_computing_pi.ipynb)
+* [computing_pi_solution](./CUDA_GPU_NVIDIA_computing_pi_solution.ipynb)
 
 ### TASK 2
 
@@ -31,8 +31,8 @@ Here, we will compute a distance matrix for a synthetic dataset of
 3-D molecular geometries.  We will learn how to leverage higher-dimensional
 CUDA thread-block hierarchies.
 
-* [distance_matrix.ipynb](./CUDA_GPU_distance_matrix.ipynb)
-* [distance_matrix_solution](./CUDA_GPU_distance_matrix_solution.ipynb)
+* [distance_matrix.ipynb](./CUDA_GPU_NVIDIA_distance_matrix.ipynb)
+* [distance_matrix_solution](./CUDA_GPU_NVIDIA_distance_matrix_solution.ipynb)
 
 ### TASK 3
 
@@ -40,5 +40,5 @@ In this exercise, we will explore GPU Ufuncs which are simple to write, invoke,
 and are compatible with Numpy Ufuncs.  We will learn how to write a simple GPU 
 Ufunc to compute the law of cosines.
 
-* [law_of_cosines.ipynb](./CUDA_GPU_law_of_cosines.ipynb)
-* [law_of_cosines_solution.ipynb](./CUDA_GPU_law_of_cosines_solution.ipynb)
+* [law_of_cosines.ipynb](./CUDA_GPU_NVIDIA_law_of_cosines.ipynb)
+* [law_of_cosines_solution.ipynb](./CUDA_GPU_NVIDIA_law_of_cosines_solution.ipynb)
