@@ -1,8 +1,11 @@
+# SDSC HPC User Training Notebook Catalog: 
+# 
 # Notebook Name:
 # Location: URL?
-# Date:
+# Date: (Last update)
 # Python Package Dependencies
 #
+# Keywords
 #
 # Short Description
 #
