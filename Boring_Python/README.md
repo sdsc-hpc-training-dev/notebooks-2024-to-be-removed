@@ -12,6 +12,7 @@ The original ebook can be found [here](https://automatetheboringstuff.com/).
 These are adapted to run on HPC systems. They contain fundemental Python knowledge, projects and examples included. Enjoy!
 
 | Notebook | Content |
+| ----------- | ----------- |
 | boring_python_chapter_1.ipynb |  |
 | boring_python_chapter_2.ipynb |  |
 | boring_python_chapter_3.ipynb |  |
