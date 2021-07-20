@@ -8,11 +8,6 @@
 def world(name):
    print("Hello, " + name) 
 
-# Define a function
-def world2(name):
-   print("Hello2, " + name) 
-
-
 def greeting(name):
    print("Greetings, " + name)
 
