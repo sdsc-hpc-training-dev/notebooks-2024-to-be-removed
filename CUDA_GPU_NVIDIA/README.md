@@ -1,20 +1,20 @@
 # SDSC HPC User Training Notebook Catalog: CUDA_GPU_NVIDIA
 # Notebook Names: 
-* CUDA_GPU_NVIDIA_computing_pi.ipynb
-* CUDA_GPU_NVIDIA_computing_pi_solution.ipynb
-* CUDA_GPU_NVIDIA_distance_matrix.ipynb
-* CUDA_GPU_NVIDIA_distance_matrix_solution.ipynb
-* CUDA_GPU_NVIDIA_law_of_cosines.ipynb
-* CUDA_GPU_NVIDIA_law_of_cosines_solution.ipynb
+* cuda_gpu_nvidia_computing_pi.ipynb
+* cuda_gpu_nvidia_computing_pi_solution.ipynb
+* cuda_gpu_nvidia_distance_matrix.ipynb
+* cuda_gpu_nvidia_distance_matrix_solution.ipynb
+* cuda_gpu_nvidia_law_of_cosines.ipynb
+* cuda_gpu_nvidia_law_of_cosines_solution.ipynb
 # Locations:
-* [computing_pi.ipynb](./CUDA_GPU_NVIDIA_computing_pi.ipynb)
-* [computing_pi_solution](./CUDA_GPU_NVIDIA_computing_pi_solution.ipynb)
+* [cuda_gpu_nvidia_computing_pi.ipynb](./cuda_gpu_nvidia_computing_pi.ipynb)
+* [cuda_gpu_nvidia_computing_pi_solution](./cuda_gpu_nvidia_computing_pi_solution.ipynb)
 
-* [distance_matrix.ipynb](./CUDA_GPU_NVIDIA_distance_matrix.ipynb)
-* [distance_matrix_solution](./CUDA_GPU_NVIDIA_distance_matrix_solution.ipynb)
+* [cuda_gpu_nvidia_distance_matrix.ipynb](./cuda_gpu_nvidia_distance_matrix.ipynb)
+* [cuda_gpu_nvidia_distance_matrix_solution](./cuda_gpu_nvidia_distance_matrix_solution.ipynb)
 
-* [law_of_cosines.ipynb](./CUDA_GPU_NVIDIA_law_of_cosines.ipynb)
-* [law_of_cosines_solution.ipynb](./CUDA_GPU_NVIDIA_law_of_cosines_solution.ipynb)
+* [cuda_gpu_nvidia_law_of_cosines.ipynb](./cuda_gpu_nvidia_law_of_cosines.ipynb)
+* [cuda_gpu_nvidia_law_of_cosines_solution.ipynb](./cuda_gpu_nvidia_law_of_cosines_solution.ipynb)
 # Date (last updated): June 2021
 # Python Package Dependencies: 
 CUDA, math, numba, numpy
