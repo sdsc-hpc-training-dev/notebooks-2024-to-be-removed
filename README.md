@@ -29,7 +29,6 @@ notebook-examples dev branch
 ## Intermediate: <a name="intermediate"></a>
 | **NAME** | **KEYWORDS** | **PACKAGES** | **LOCATION/LINK** |
 | ------- |  ------- | ------- | ------- |
-| LabMNIST_Final.ipynb | machine learning, tensor flow, CPU | [ML_Tensorflow_CPU](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/deep_learning/ML_Tensorflow_CPU) |
 | CUDA_GPU_computing_pi.ipynb | data | CUDA, math, numba, numpy | [CUDA_GPU](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/CUDA_GPU) |
 | CUDA_GPU_computing_pi_solution.ipynb | data | CUDA, math, numba, numpy | [CUDA_GPU](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/CUDA_GPU) |
 | CUDA_GPU_distance_matrix.ipynb | data | CUDA, math, numba, numpy | [CUDA_GPU](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/CUDA_GPU) |
