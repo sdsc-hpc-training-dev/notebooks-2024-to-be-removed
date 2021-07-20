@@ -20,6 +20,9 @@ notebook-examples dev branch
 | Boring_Python_Chapter_4.ipynb |  basic, index, lists, loops, slice, tuples | N/A | [Boring_Python](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Boring_Python)|
 | Boring_Python_Chapter_5.ipynb |  basic, data structures, dictionaries, lists, nested data | pprint | [Boring_Python](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Boring_Python)|
 | Boring_Python_Chapter_6.ipynb |  basic, strings, index, slice | pyperclip, sys | [Boring_Python](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Boring_Python)|
+| Boring_Python_Chapter_7.ipynb |  patterrns, text processing, webscraping | pyperclip, regular expressions/re | [Boring_Python](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Boring_Python)|
+| Boring_Python_Chapter_8.ipynb |  input/output, input validation, keys, keywords | pyinputplus | [Boring_Python](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Boring_Python)|
+| Boring_Python_Chapter_9.ipynb |  file processing, reading, writing | pathlib, os, shelve, pprint, myCats | [Boring_Python](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Boring_Python)|
 | Hello_World_CPU.ipynb |  basic, hello world | hello | [Hello_World](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Hello_World) |
 | Hello_World_GPU.ipynb |  basic, hello world | N/A | [Hello_World](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Hello_World) |
 |Matplotlib_Intro.ipynb | plot, scatter, line, bar, histogram | matplotlib, numpy | [Matplotlib_Intro](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/Matplotlib_Intro) |
