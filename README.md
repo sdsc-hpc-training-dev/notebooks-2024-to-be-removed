@@ -12,7 +12,6 @@ notebook-examples dev branch
 ## Beginning: <a name="beginning"></a> 
 | **NAME** | **KEYWORDS** | **PACKAGES** | **LOCATION/LINK** |
 | ------- |  ------- | ------- |------- |
-| LabMNIST_Final.ipynb | machine learning, tensor flow, CPU | [ML_Tensorflow_CPU](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/deep_learning/ML_Tensorflow_CPU) |
 | PythonBasics_Basics.ipynb | math, basics, operators, strings, lists, sets, conditionals, loops, functions, modules | copy, numpy, sys | [PythonBasics](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/PythonBasics) |
 | PythonBasics_LaTeX_math.ipynb | basic, LaTeX, math  | N/A | [PythonBasics](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/PythonBasics) |
 | PythonBasics_Markdown.ipynb | markdown, markup language, basic, headers, lists | N/A | [PythonBasics](https://github.com/sdsc-hpc-training-dev/notebook-examples/tree/main/PythonBasics) |
