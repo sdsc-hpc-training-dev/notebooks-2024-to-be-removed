@@ -16,7 +16,7 @@ These notebooks contain essential knowledge for developing your own Jupyter Note
 • LaTeX is a useful tool for math formatting, supported with the notebooks.
 • Markdown allows you to add formatted text in the notebooks.
 # Source, references
-For all LaTeX tools: https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols  
+For all LaTeX symbols: https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols  
 A quick-access page for Markdown: https://www.markdownguide.org/cheat-sheet/
 # Instructions
 Try implementing these tools in your own notebooks!
