@@ -5,7 +5,7 @@
 # Location: 
 • [notebook_dev_basics_latex_math.ipynb](./notebook_dev_basics_latex_math.ipynb)   
 • [notebook_dev_basics_markdown.ipynb](.notebook_dev_basics_markdown.ipynb)
-# Date: June 2021
+# Date (last updated): June 2021
 # Python Package Dependencies
 N/A 
 # Keywords
