@@ -23,12 +23,12 @@
 # Table of Contents
 | Chapter   | Package Dependencies  | Keywords | Short Description |
 | --------- | --------------------  | -------- | ----------------- |
-| Chapter 1 | N/A                   |          |                   |
-| Chapter 2 | math, os, random, sys |          |                   |
-| Chapter 3 | random                |          |                   |
-| Chapter 4 | N/A                   |          |                   |
-| Chapter 5 | pprint                |          |                   |
-| Chapter 6 | pyperclip, sys        |          |                   |
+| Chapter 1 | N/A                   | basic, data types, math, operator |                   |
+| Chapter 2 | math, os, random, sys | basic, flow control, flowchart, loops, modules        |                   |
+| Chapter 3 | random                | basic, exceptions, functions, variable scope          |                   |
+| Chapter 4 | N/A                   | basic, index, lists, loops, slice, tuples             |                   |
+| Chapter 5 | pprint                | basic, data structures, dictionaries, lists, nested data|                 |
+| Chapter 6 | pyperclip, sys        | basic, strings, index, slice                          |                   |
 | Chapter 7 |                       |          |                   |
 | Chapter 8 |                       |          |                   |
 | Chapter 9 |                       |          |                   |
