@@ -11,5 +11,5 @@ N/A
 # Keywords
 basic, hello world
 # Short Description
-These notebooks include basic python functions and commands, and running these notebooks will test if your environment has been configured properly.
-It is recommended that you run these hello world notebooks to check that everything has been configure correctly.
+These notebooks only include basic python functions and commands intended to test if your environment has been configured properly.
+It is recommended that you run these hello world notebooks to check that everything has been configured correctly.
