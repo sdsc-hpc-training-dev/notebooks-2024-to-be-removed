@@ -9,7 +9,7 @@ collections, matplotlib, numpy, operator
 # Keywords
 array, basics, math
 # Short Description
-NumPy is the most fundamental Python data package. It includes array objects, many array manipulation functions, and more. 
+NumPy is a fundamental numerical Python package. It includes array objects, high level array manipulation functions, and more. 
 numpy_intro.ipynb: This is an introduction to NumPy. The notebook explores n-dimentional arrays; basic NumPy functions like creating arrays, reshaping and manipulating arrays; some general linear algebra capabilities; and sampling for HPC capacities.
 # Source, references
 For extensive NumPy documentation: https://numpy.org/doc/stable/reference/index.html
