@@ -1,5 +1,4 @@
 # SDSC HPC User Training Notebook Catalog: Data_Analysis
-# 
 # Notebook Name:
 • data_analysis_pandas.ipynb
 # Location:
