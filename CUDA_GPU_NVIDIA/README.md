@@ -34,7 +34,7 @@ and are compatible with Numpy Ufuncs.  We will learn how to write a simple GPU
 Ufunc to compute the law of cosines.
 
 # References
-Below are litsed a few related readings and presentations.
+Below are listed a few related readings and presentations.
 [Numba](http://numba.pydata.org/) supports CUDA GPU programming by directly 
 compiling a subset of Python code into CUDA kernels and device functions 
 following the CUDA execution model.  
