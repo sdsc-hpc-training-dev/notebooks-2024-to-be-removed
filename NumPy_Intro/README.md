@@ -3,7 +3,7 @@
 numpy_intro.ipynb
 # Location: 
 [numpy_intro.ipynb](./numpy_intro.ipynb)
-# Date: (Last update)
+# Date (Last update): June 2021
 # Python Package Dependencies
 collections, matplotlib, numpy, operator
 # Keywords
